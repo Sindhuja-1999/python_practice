@@ -11,3 +11,4 @@
 8. Tandem Bicycle
 9. Nth Fibonacci
 10. Tournment Winner
+11. Class Photos

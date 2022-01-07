@@ -13,3 +13,4 @@
 10. Tournment Winner
 11. Class Photos
 12. Monotonic Array
+13. First Duplicate Value

@@ -6,9 +6,7 @@ def firstDuplicateValue(array):
 			if p>su:
 				su=su+p				
 			else:
-				return i		
-			
-			
+				return 1	
 	return -1
 		
 	

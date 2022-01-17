@@ -14,3 +14,4 @@
 11. Class Photos
 12. Monotonic Array
 13. First Duplicate Value
+14. Selection Sort

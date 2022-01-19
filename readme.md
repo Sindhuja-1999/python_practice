@@ -15,3 +15,4 @@
 12. Monotonic Array
 13. First Duplicate Value
 14. Selection Sort
+15. Index Equals Value

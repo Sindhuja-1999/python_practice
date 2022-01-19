@@ -16,3 +16,4 @@
 13. First Duplicate Value
 14. Selection Sort
 15. Index Equals Value
+16. Move Element To End

@@ -17,3 +17,4 @@
 14. Selection Sort
 15. Index Equals Value
 16. Move Element To End
+17. Insertion Sort

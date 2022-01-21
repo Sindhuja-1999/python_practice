@@ -18,3 +18,4 @@
 15. Index Equals Value
 16. Move Element To End
 17. Insertion Sort
+18. Bubble Sort

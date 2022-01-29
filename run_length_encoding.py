@@ -8,26 +8,14 @@ def runLengthEncoding(string):
 	for i in range(len(sub)):
 		t=lst.count(sub[i])
 		if t>9:
-			p.append(9)+p.append(t-9)
-		else:
-			
+			p.append(9)
+			p.append(sub[i])
+			p.append(t-9)
+			p.append(sub[i])
+		else:			
 			p.append(t)
-	return p	
+			p.append(sub[i])
+	a=list(map(str,p))		
+	return em.join(a)	
 		
-		
-	# c=0
-	# p=None
-	# for i in lst:
-	# 	if p==None:
-	# 		p=i
-	# 	elif p==i:
-	# 		c=c+1
-			
-		
-	# for i in string:
-	# 	q=len(i)
-	# 	if len(i)<10:
-	# 		return qi
-	# 	else:
-	# 		return 9i+(q-9)i
 	
